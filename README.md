@@ -26,6 +26,7 @@ Veja todas as regras em https://hacktoberfest.com/
 
 - [Nome Completo](https://github.com/username)
 - 
+- [Vagner Bechel](https://github.com/VDBechel)
 
 
 ### Adiciona o teu nome
